@@ -1,0 +1,13 @@
+{
+  "name": "javascript-logic",
+  "version": "1.0.0",
+  "main": "random_numbers_generators.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
