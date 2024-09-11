@@ -1,0 +1,11 @@
+{
+  "name": "javascript-logic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Lucaswillians/javascript-logic.git",
+  "author": "Lucaswillians <lucaswilianserpa@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
