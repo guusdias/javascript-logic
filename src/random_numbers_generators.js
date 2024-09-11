@@ -1,3 +1,4 @@
+// exercise 1
 class RandomNumbers {
   static getRandomInt(min, max) {
     min = Math.ceil(min);
